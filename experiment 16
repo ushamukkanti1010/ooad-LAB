@@ -1,0 +1,25 @@
+#include "interviewr.h"
+
+// Constructors/Destructors
+//  
+
+interviewr::interviewr () {
+initAttributes();
+}
+
+interviewr::~interviewr () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void interviewr::initAttributes () {
+}
