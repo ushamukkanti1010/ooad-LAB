@@ -1,0 +1,25 @@
+#include "vehicle_registration.h"
+
+// Constructors/Destructors
+//  
+
+vehicle_registration::vehicle_registration () {
+initAttributes();
+}
+
+vehicle_registration::~vehicle_registration () { }
+
+//  
+// Methods
+//  
+
+
+// Accessor methods
+//  
+
+
+// Other methods
+//  
+
+void vehicle_registration::initAttributes () {
+}
